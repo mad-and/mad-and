@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**mad-and/mad-and** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome to my Github profile
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning Git and Git hub
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: please don't
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Bananas are technically berries while strawberries are not
--->
+
